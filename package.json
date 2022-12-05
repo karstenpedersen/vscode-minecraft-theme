@@ -1,7 +1,8 @@
 {
   "name": "minecraft-theme",
   "displayName": "minecraft-theme",
-  "description": "",
+  "description": "Minecraft Inspired Theme for VSCode",
+  "repository": "https://github.com/karstenpedersen/vscode-minecraft-theme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.73.0"
