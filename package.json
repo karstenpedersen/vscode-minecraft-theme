@@ -1,0 +1,21 @@
+{
+  "name": "minecraft-theme",
+  "displayName": "minecraft-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Minecraft Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Minecraft Theme-color-theme.json"
+      }
+    ]
+  }
+}
